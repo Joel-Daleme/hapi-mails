@@ -1,1 +1,1 @@
-# hapi-users
+# hapi-mails
